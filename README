@@ -1,0 +1,14 @@
+
+Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden
+ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana
+basan programı yazıyoruz.
+
+4'ün katlarını listeleyerek çift sayı yani 2'ye ve 4'e tam bölünen sayıları elde edebiliriz:
+
+4, 8, 12, 16, 20, 24, 28, 32, 36, 40, ...
+
+************* Senaryo ********************************
+
+girilen sayılar 8 12 20 1 oldugun da program duracak ve sonuca
+
+8+12+20=40 yazacaktır
